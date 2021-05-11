@@ -1,12 +1,12 @@
 # CWPal
-Simple 12 color palette from the time when people needed to print lines on screen and on paper! 
+Simple 10+2 (black and white are not real colors!) color palette from the time when people needed to print lines on screen and on paper! 
 
 In the days of old, the poor scientists had to use trial-and-error to choose individual colors out
 of weird color-schemes or palettes. A decent red was hard to find, let alone other different colors
 that would stand-out on a data-visualization artifact called "screen" or "monitor" (black backgound,
 of course!). When having to actually transfer these graphs to paper (white or what was the fashion 
-at the time and had a dirty-greyish hue, the so-called "recycled") to show to other coleagues the 
-quest was really a daunting one!
+at the time and had a dirty-greyish hue, a so-called "recycled" paper that stuck in printers and faded
+fast as hell) to show to other coleagues the quest was really a daunting one!
 
 But one foolhardy student at the time came up with a set of colors to get rid of this nonesense, 
 basically out of boredom and anger in equal parts.

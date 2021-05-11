@@ -1,0 +1,3 @@
+# CWpal 10 palette (https://github.com/cwestend/CWPal)
+axes.prop_cycle: cycler('color', ['EA0000', '008CEA', '00D800', 'FFEB00', '00EBE4', 'FF00C8', 'FF9400', '007E00', 'AF00C9', 'FF4343'])
+patch.facecolor: EA0000

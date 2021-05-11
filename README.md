@@ -33,7 +33,7 @@ The easiest way I found is to add a .mplstyle file and either call it with matpl
 
 (see https://matplotlib.org/stable/tutorials/introductory/customizing.html)
 
-If you create a file in ~/.config/matplotlib/stylelib (default style directory for matplotlib, check yours with matplotlib.get_configdir() ) then you can just do:
+If you create a file in ~/.config/matplotlib/stylelib - default style directory for matplotlib, check yours with matplotlib.get_configdir() then you can just do:
 
 ```
 % import matplotlib.pyplot as pl

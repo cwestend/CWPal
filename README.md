@@ -27,3 +27,13 @@ P.D: Some papers, just to show off!
 Nature doi:10.1038/37933
 ApJ doi:10.1086/318376, 10.1086/318377
 
+Setup (python):
+The easiest way I found is to add a .mplstyle file and either call it with matplotlib.pyplot.style.use or just create it in ~/.config/matplotlib/stylelib:
+
+(see https://matplotlib.org/stable/tutorials/introductory/customizing.html)
+
+If you create a file in ~/.config/matplotlib/stylelib (default style directory for matplotlib, check yours with matplotlib.get_configdir()) then you can just do:
+
+% import matplotlib.pyplot as pl
+% pl.style.use('cwpal')
+

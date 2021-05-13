@@ -1,4 +1,7 @@
 # CWPal
+
+![CWPal image](https://github.com/cwestend/CWPal/blob/master/CWPal.gif)
+
 Simple 10+2 (black and white are not real colors!) color palette from the time when people needed to print lines on screen and on paper! 
 
 In the days of old, the poor scientists had to use trial-and-error to choose individual colors out
